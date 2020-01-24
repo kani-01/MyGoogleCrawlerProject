@@ -1,4 +1,4 @@
-# MyProjects
+# MyCrawlerProject
 
 ProjectBigData : Developed Web Crawlers: Google PlayStore
 Professor: Dr.Haroon Malik, Author: Kanimozhi Kalaichelvan
